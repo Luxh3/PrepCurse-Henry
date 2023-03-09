@@ -1,1 +1,1 @@
-Prueba, creando un repositorio y clonarlo desde github a mi escritorio.
+Repositorio con README
